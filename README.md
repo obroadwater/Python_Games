@@ -1,1 +1,1 @@
-Each .py file contains a game coded in python. The lexicon.txt and second.txt files are used in conjunction with the hangman file as lists of acceptable words.
+Each .py file contains a game coded in python. The lexicon.txt and second.txt files are used in conjunction with the hangman file. Hangman is structured in a convoluted way due to it being developed when I was early in my coding career.
