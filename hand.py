@@ -1,0 +1,1 @@
+# script to define a collection of cards to be defined as a 'hand'

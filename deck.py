@@ -1,0 +1,1 @@
+# script to define the central source of cards, a deck
