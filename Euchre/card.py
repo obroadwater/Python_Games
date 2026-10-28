@@ -31,6 +31,9 @@ class Card:
                 val = -1
         return val
     
+    def is_equal(self, card):
+        return self.value == card.value and self.suit == card.suit
+
     def to_str(self):
         return f"{self.value} of {self.suit}"
     
@@ -48,4 +51,5 @@ for lead, trump, card in tests:
     print(f"Card {card.to_str()}: {lead} are led, {trump} is trump --> Card value == {card.get_num_val(lead, trump)}")        
         
         
-print(x.to_str())'''
+print(x.to_str())
+print(type(x))'''
